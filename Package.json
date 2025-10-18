@@ -2,7 +2,7 @@
   "name": "klausinvestment",
   "version": "1.0.0",
   "description": "Klaus Global Assets Portal Backend",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "start": "node server.js",
     "build": "npm install"
